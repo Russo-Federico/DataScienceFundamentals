@@ -37,3 +37,11 @@ This repo contains the notebooks for the exercies required to complete the follo
 6- Advanced SQL (https://www.kaggle.com/learn/advanced-sql)
   - Analytic functions
   - Nested and repeated data
+
+7- Deep Learning (https://www.kaggle.com/learn/intro-to-deep-learning)
+  - Neurons
+  - Deep NNs
+  - SGD (stochastic gradient descent)
+  - Overfitting & Underfitting
+  - Droput and Batch normalization
+  - Binary classification

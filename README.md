@@ -2,7 +2,7 @@
 
 This repo contains the notebooks for the exercies required to complete the following kaggle courses:
 
-1- Intro to ML (https://www.kaggle.com/learn/intro-to-machine-learning):
+1- Intro to ML using scikit-learn (https://www.kaggle.com/learn/intro-to-machine-learning):
   - First ML model
   - Model validation
   - Underfitting & overfitting
@@ -14,7 +14,7 @@ This repo contains the notebooks for the exercies required to complete the follo
   - Grouping and Sorting
   - Data type and Missing values
 
-3- Intermediate Machine Learning (https://www.kaggle.com/learn/intermediate-machine-learning)
+3- Intermediate Machine Learning using scikit-learn (https://www.kaggle.com/learn/intermediate-machine-learning)
   - Missing values
   - Categorical variables
   - Pipelines
@@ -38,7 +38,7 @@ This repo contains the notebooks for the exercies required to complete the follo
   - Analytic functions
   - Nested and repeated data
 
-7- Deep Learning (https://www.kaggle.com/learn/intro-to-deep-learning)
+7- Deep Learning using Keras (https://www.kaggle.com/learn/intro-to-deep-learning)
   - Neurons
   - Deep NNs
   - SGD (stochastic gradient descent)

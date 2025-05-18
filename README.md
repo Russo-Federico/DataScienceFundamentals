@@ -28,7 +28,7 @@ This repo contains the notebooks for the exercies required to complete the follo
   - PCA (principal component analysis)
   - Target encoding
 
-5- SQL & BigQuery (https://www.kaggle.com/learn/intro-to-sql), use BigQuery for
+5- SQL & BigQuery (https://www.kaggle.com/learn/intro-to-sql)
   - Selects
   - Grouping
   - Joins

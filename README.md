@@ -45,3 +45,10 @@ This repo contains the notebooks for the exercies required to complete the follo
   - Overfitting & Underfitting
   - Droput and Batch normalization
   - Binary classification
+
+8- Computer Vision (https://www.kaggle.com/learn/computer-vision)
+  - CNNs
+  - Convolution & ReLU
+  - Maximum Pooling
+  - Sliding Window
+  - Data augmentation

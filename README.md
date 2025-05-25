@@ -1,4 +1,4 @@
-#Kaggle Courses
+**#Kaggle Courses#**
 
 This repo contains the notebooks for the exercies required to complete the following kaggle courses:
 

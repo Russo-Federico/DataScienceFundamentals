@@ -52,3 +52,9 @@ This repo contains the notebooks for the exercies required to complete the follo
   - Maximum Pooling
   - Sliding Window
   - Data augmentation
+
+**10- Machine Learning Explainability** *(https://www.kaggle.com/learn/machine-learning-explainability)*
+  - Permutation Importance
+  - Partial Dependence Plots
+  - SHAP Values
+  - Advanced uses for SHAP Values

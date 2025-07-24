@@ -53,6 +53,14 @@ This repo contains the notebooks for the exercies required to complete the follo
   - Sliding Window
   - Data augmentation
 
+**9- Time Series** *(https://www.kaggle.com/learn/time-series)*
+  - Linear Regresso with Time Series
+  - Trend
+  - Seasonality
+  - Time Series as Features
+  - Hybrid Models
+  - Forecasting with ML
+
 **10- Machine Learning Explainability** *(https://www.kaggle.com/learn/machine-learning-explainability)*
   - Permutation Importance
   - Partial Dependence Plots

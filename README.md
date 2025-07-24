@@ -54,7 +54,7 @@ This repo contains the notebooks for the exercies required to complete the follo
   - Data augmentation
 
 **9- Time Series** *(https://www.kaggle.com/learn/time-series)*
-  - Linear Regresso with Time Series
+  - Linear Regression with Time Series
   - Trend
   - Seasonality
   - Time Series as Features
